@@ -1,0 +1,5 @@
+commit d19f0d406b7c77d3e8b6a01271a8c4394bd709e9
+Author: pioper <piotr2001perlak@gmail.com>
+Date:   Tue Jun 11 17:39:17 2024 +0200
+
+    dodano README.md
